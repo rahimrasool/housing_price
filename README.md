@@ -1,1 +1,6 @@
-# housing_price
+# Housing_price
+
+Members:
+- Carly
+- Rahim
+- Jaisha
