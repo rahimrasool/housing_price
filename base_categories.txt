@@ -1,0 +1,46 @@
+This file lists the base categories for all categorical variables that were transformed into binary variables.
+
+MSSubClass : 1 Story, 1946 & Newer
+MSZoning : Residential Low Density
+Street : Paved
+Alley : No Alley
+LotShape : Regular
+LandContour : Level
+Utilities : All Public
+LotConfig : Inside Lot
+LandSlope : Gentle Slope
+Condition1 : Normal
+Condition2 : Normal
+BldgType : Single Family
+HouseStyle : 1 Story
+RoofStyle : Gabel
+RoofMatl : Standard Shingle
+Exterior1st : Vinyl Siding
+Exterior2nd : Vinyl Siding
+MasVnrType : None
+ExterQual : Average
+ExterCond : Average
+Foundation : Poured Concrete
+BsmtQual : No Basement
+BsmtCond : No Basement
+BsmtExposure : No Basement
+BsmtFinType1 : No Basement
+BsmtFinType2 : No Basement
+Heating: Gas, Forced Air
+HeatingQC : Average
+Central Air : No
+Electrical : Standard
+KitchenQual : Average
+Functional : Typical
+FireplaceQu : No Fireplace
+GarageType : No Garage
+GarageFinish : No Garage
+GarageQual : No Garage
+GarageCond : No Garage
+PoolQC : No Pool
+Fence : No Fence
+MiscFeature : No Misc Feature
+MoSold : January
+YrSold : 2006
+SaleType : Conventional
+SaleCondition : Normal
