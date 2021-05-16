@@ -34,6 +34,7 @@ KitchenQual : Average
 Functional : Typical
 FireplaceQu : No Fireplace
 GarageType : No Garage
+GarageYrBlt : No Garage
 GarageFinish : No Garage
 GarageQual : No Garage
 GarageCond : No Garage
